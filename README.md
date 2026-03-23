@@ -27,6 +27,14 @@ Developed a reusable Excel template that:
 - Appends all data into a unified dataset
 - Provides a one-click refresh experience
 
+This solution is designed to hande real-world messy Excel data including inconsistant headers, blank rows, and multi-sheet inputs.
+
+---
+
+🔄 Workflow
+
+Folder → Power Query → Data Cleaning → Append → Output
+
 ---
 
 ✨ Key Features
@@ -155,7 +163,7 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 - ## Output
 - ![Output](ScreenShots/Final_Output.png)
 
-«Note: Data has been anonymized for confidentiality.»
+⚠️ Note: Data has been anonymized for confidentiality.
 
 ---
 
@@ -175,6 +183,7 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 4. Click Refresh
 5. View consolidated data
 
+⚠️ Note: Enable macros after opening the file for full functionality.
 ---
 
 🔮 Future Enhancements
