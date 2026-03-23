@@ -121,7 +121,8 @@ Fix: Removed rows where key columns are null
 - Folder path selection
 - Refresh button
 - Last refresh timestamp
-
+- ## Control Sheet
+- ![Control Sheet](ScreenShots/Control_Sheet.JPG)
 ---
 
 🔹 Power Query Editor (Query(1,2,3,4))
@@ -129,13 +130,19 @@ Fix: Removed rows where key columns are null
 - Folder ingestion
 - Sheet filtering
 - Transformation steps
-
+- ## Power Query Workflow
+- ![Query Step1](ScreenShots/PowerQuery_Folder_Input.JPG)
+- ![Query Step3](ScreenShots/PowerQuery_Filter_Sheetr.JPG)
+- ![Query Step2](ScreenShots/PowerQuery_Transformation.JPG)
+  
 ---
 
 🔹 Final Output (AppendedFormat)
 
 - Clean consolidated dataset
 - Ready for reporting
+- ## Power Query Workflow
+- ![Output](ScreenShots/Final_Output.JPG)
 
 «Note: Data has been anonymized for confidentiality.»
 
