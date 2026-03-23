@@ -168,7 +168,7 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 (In the final output we can see different sheets with appended data from different files)
 - ![Output](ScreenShots/Final_Output.png)
 
-⚠️ Note: Data has been anonymized for confidentiality.
+⚠️ Note: Data has been anonymized for confidentiality. Actual file containes 21 seperate sheets for which customised queries are written
 
 ---
 
