@@ -125,14 +125,17 @@ Fix: Removed rows where key columns are null
 - ![Control Sheet](ScreenShots/Control_Sheet.png)
 ---
 
-🔹 Power Query Editor (Query(1,2,3,4))
+🔹 Power Query Editor
 
 - Folder ingestion
 - Sheet filtering
 - Transformation steps
+- 
 - ## Power Query Workflow
 - ![Query Step1](ScreenShots/PowerQuery_Folder_Input.png)
+- 
 - ![Query Step3](ScreenShots/PowerQuery_Filter_Sheetr.png)
+- 
 - ![Query Step2](ScreenShots/PowerQuery_Transformation.png)
   
 ---
@@ -141,6 +144,7 @@ Fix: Removed rows where key columns are null
 
 - Clean consolidated dataset
 - Ready for reporting
+- 
 - ## Power Query Workflow
 - ![Output](ScreenShots/Final_Output.png)
 
