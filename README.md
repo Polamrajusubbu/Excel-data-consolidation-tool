@@ -114,6 +114,11 @@ Fix: Removed rows where key columns are null
 
 ---
 
+🎯 Business Value
+
+This tool reduces manual effort and ensures consistent reporting across multiple data sources, making it highly useful for finance, operations, and analytics teams.
+---
+
 📸 Screenshots
 
 🔹 ControlPanel (User Interface)
@@ -130,12 +135,12 @@ Fix: Removed rows where key columns are null
 - Folder ingestion
 - Sheet filtering
 - Transformation steps
-- 
+  
 - ## Power Query Workflow
 - ![Query Step1](ScreenShots/PowerQuery_Folder_Input.png)
-- 
+  
 - ![Query Step2](ScreenShots/PowerQuery_Filter_Sheet.png)
-- 
+  
 - ![Query Step3](ScreenShots/PowerQuery_Transformation.png)
   
 ---
@@ -144,7 +149,7 @@ Fix: Removed rows where key columns are null
 
 - Clean consolidated dataset
 - Ready for reporting
-- 
+  
 - ## Power Query Workflow
 - ![Output](ScreenShots/Final_Output.png)
 
