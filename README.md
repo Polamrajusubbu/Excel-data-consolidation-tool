@@ -134,9 +134,9 @@ Fix: Removed rows where key columns are null
 - ## Power Query Workflow
 - ![Query Step1](ScreenShots/PowerQuery_Folder_Input.png)
 - 
-- ![Query Step3](ScreenShots/PowerQuery_Filter_Sheetr.png)
+- ![Query Step2](ScreenShots/PowerQuery_Filter_Sheet.png)
 - 
-- ![Query Step2](ScreenShots/PowerQuery_Transformation.png)
+- ![Query Step3](ScreenShots/PowerQuery_Transformation.png)
   
 ---
 
