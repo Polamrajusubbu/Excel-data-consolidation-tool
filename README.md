@@ -188,7 +188,8 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 4. Click Refresh
 5. View consolidated data
 
-⚠️ Note: Enable macros after opening the file for full functionality.
+⚠️ Note: Enable Macros after opening the file for full functgionality
+
 ---
 
 🔮 Future Enhancements
