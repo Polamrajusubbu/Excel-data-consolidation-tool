@@ -136,6 +136,8 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 - Refresh button
 - Last refresh timestamp
 - ## Control Sheet
+(User will choose the files folder path and press refresh)
+
 - ![Control Sheet](ScreenShots/Control_Sheet.png)
   
 ---
@@ -147,6 +149,8 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 - Transformation steps
   
 - ## Power Query Workflow
+(Used tranformation techniques like to connect the folder path dynamically to the queries and performed data cleaning activities for each filtered sheet as the data structure is not consistant)
+  
 - ![Query Step1](ScreenShots/PowerQuery_Folder_Input.png)
   
 - ![Query Step2](ScreenShots/PowerQuery_Filter_Sheet.png)
@@ -155,7 +159,8 @@ This tool reduces manual effort and ensures consistent reporting across multiple
   
 ---
 
-🔹 Final Output (AppendedFormat)
+🔹 Final Output
+(In the final output we can see different sheets with appended data from different files)
 
 - Clean consolidated dataset
 - Ready for reporting
