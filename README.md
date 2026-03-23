@@ -160,6 +160,7 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 ---
 
 🔹 Final Output
+
 (In the final output we can see different sheets with appended data from different files)
 
 - Clean consolidated dataset
