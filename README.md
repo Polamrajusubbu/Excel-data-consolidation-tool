@@ -117,6 +117,7 @@ Fix: Removed rows where key columns are null
 🎯 Business Value
 
 This tool reduces manual effort and ensures consistent reporting across multiple data sources, making it highly useful for finance, operations, and analytics teams.
+
 ---
 
 📸 Screenshots
@@ -128,6 +129,7 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 - Last refresh timestamp
 - ## Control Sheet
 - ![Control Sheet](ScreenShots/Control_Sheet.png)
+  
 ---
 
 🔹 Power Query Editor
@@ -150,7 +152,7 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 - Clean consolidated dataset
 - Ready for reporting
   
-- ## Power Query Workflow
+- ## Output
 - ![Output](ScreenShots/Final_Output.png)
 
 «Note: Data has been anonymized for confidentiality.»
