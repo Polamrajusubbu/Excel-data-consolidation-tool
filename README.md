@@ -161,12 +161,11 @@ This tool reduces manual effort and ensures consistent reporting across multiple
 
 🔹 Final Output
 
-(In the final output we can see different sheets with appended data from different files)
-
 - Clean consolidated dataset
 - Ready for reporting
   
 - ## Output
+(In the final output we can see different sheets with appended data from different files)
 - ![Output](ScreenShots/Final_Output.png)
 
 ⚠️ Note: Data has been anonymized for confidentiality.
