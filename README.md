@@ -87,29 +87,29 @@ Folder → Power Query → Data Cleaning → Append → Output
 
 🔸 Inconsistent Header Rows
 
-Issue: Headers repeated for each file
-Fix: Filtered rows where header text repeats
+- Issue: Headers repeated for each file
+- Fix: Filtered rows where header text repeats
 
 ---
 
 🔸 Merged Cells in Source Files
 
-Issue: Incorrect column alignment
-Fix: Used Fill Down before header promotion
+- Issue: Incorrect column alignment
+- Fix: Used Fill Down before header promotion
 
 ---
 
 🔸 Duplicate / Partial Data Extraction
 
-Issue: Multiple objects (tables/sheets) causing duplication
-Fix: Filtered only required sheet type before expansion
+- Issue: Multiple objects (tables/sheets) causing duplication
+- Fix: Filtered only required sheet type before expansion
 
 ---
 
 🔸 Blank Rows Between Data
 
-Issue: Gaps between appended datasets
-Fix: Removed rows where key columns are null
+- Issue: Gaps between appended datasets
+- Fix: Removed rows where key columns are null
 
 ---
 
